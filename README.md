@@ -20,7 +20,10 @@ I'm a Data Scientist finishing a Ph.D. in Biology. I have over 8 years of experi
 ### Skills
 #### Languages:
 
-![R](https://www.r-project.org/logo/Rlogo.png)
+<img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="100" height="100">
+
+
+
 
 Python, SQL
 
