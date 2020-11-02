@@ -19,11 +19,13 @@ I'm a Data Scientist finishing a Ph.D. in Biology. I have over 8 years of experi
 
 ### Skills
 
-#### Languages:
+#### Programming Languages:
 
-- R
-- Python
-- SQL
+<img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="72.4" height="56.1"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python"> 
+
+#### Tools:
+
+<img src="https://devinstechblog.com/wp-content/uploads/2016/08/postgresql-logo.png" alt="postgres" width="183" height="84"> <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" alt="git" width="136.5" height="57">
 
 #### Statistics and Machine Learning:
 
