@@ -1,4 +1,4 @@
-### Hi there 👋
+## Welcome to my github!
 
 <!--
 **paulqsims/paulqsims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 I'm a Data Scientist finishing a Ph.D. in Biology. I have over 8 years of experience in experimental design, advanced regression modeling, and extracting insights from messy data. I'm excited to apply my background in behavioral analytics in both predicting and interpreting consumer behavior to inform business decision making and in creating data products.
 
 ### Skills
+
 #### Languages:
 
-<img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="100" height="100">
+- R
+- Python
+- SQL
 
+#### Statistics and Machine Learning:
 
-
-
-Python, SQL
-
-#### Languages
-Statistics and Machine Learning: Regression, Dimensionality reduction, Bootstrapping/Randomization, A/B testing 
+- Regression
+- Dimensionality reduction
+- Bootstrapping/Randomization
+- A/B testing
