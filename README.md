@@ -19,7 +19,8 @@ I'm a Data Scientist finishing a Ph.D. in Biology. I have over 8 years of experi
 
 ### Skills
 #### Languages:
-![R](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.r-project.org%2Flogo%2F&psig=AOvVaw3B6t83Bk1klbC8jDdqTxZZ&ust=1604421227863000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiu4_2k5OwCFQAAAAAdAAAAABAD)
+
+![R](https://www.r-project.org/logo/Rlogo.png)
 
 Python, SQL
 
