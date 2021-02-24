@@ -29,7 +29,7 @@ I'm a Data Scientist finishing a Ph.D. in Biology. I have over 8 years of experi
 
 ### Tools:
 
-<img src="https://www.clipartmax.com/png/middle/33-338445_open-source-vector-images-postgresql-logo.png" alt="sql" width="183" height="84"> <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" alt="git" width="136.5" height="57">
+<img src="https://www.pngkey.com/png/detail/466-4667821_postgres-logo.png" alt="sql" width="84" height="84"> <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" alt="git" width="136.5" height="57">
 
 ### Statistics and Machine Learning:
 
