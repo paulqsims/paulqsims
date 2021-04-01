@@ -34,6 +34,11 @@ I'm a Data Scientist finishing a Ph.D. in Biology. I have over 8 years of experi
 ### Statistics and Machine Learning:
 
 - Regression
+- Classification
 - Dimensionality reduction
-- Bootstrapping/Randomization
+- Clustering
+- Decision Trees
+- Random Forest
+- Resampling techniques: Bootstrapping/Randomization
 - A/B testing
+- Experimental and Sampling design
